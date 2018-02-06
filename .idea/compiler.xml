@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="study-cloud-parent" />
+        <module name="study-feign-consumer" />
+        <module name="study-many-registers" />
+        <module name="study-producter" />
+        <module name="study-register" />
+        <module name="study-ribbon-consumer" />
+        <module name="study-zuul" />
+        <module name="test-feign-consumer" />
+        <module name="test-many-registers" />
+        <module name="test-producter" />
+        <module name="test-register" />
+        <module name="test-ribbon-consumer" />
+        <module name="test-springcloud-parent-demo" />
+        <module name="test-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="study-cloud-parent" target="1.5" />
+      <module name="study-feign-consumer" target="1.8" />
+      <module name="study-many-registers" target="1.8" />
+      <module name="study-producter" target="1.8" />
+      <module name="study-register" target="1.8" />
+      <module name="study-ribbon-consumer" target="1.8" />
+      <module name="study-zuul" target="1.8" />
+      <module name="test-feign-consumer" target="1.8" />
+      <module name="test-many-registers" target="1.8" />
+      <module name="test-producter" target="1.8" />
+      <module name="test-register" target="1.8" />
+      <module name="test-ribbon-consumer" target="1.8" />
+      <module name="test-springcloud-parent-demo" target="1.5" />
+      <module name="test-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

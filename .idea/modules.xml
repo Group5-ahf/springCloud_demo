@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-cloud-parent.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-feign-consumer/study-feign-consumer.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-feign-consumer/study-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-many-registers/study-many-registers.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-many-registers/study-many-registers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-producter/study-producter.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-producter/study-producter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-register/study-register.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-register/study-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-ribbon-consumer/study-ribbon-consumer.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-ribbon-consumer/study-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../study-cloud-parent/study-zuul/study-zuul.iml" filepath="$PROJECT_DIR$/../study-cloud-parent/study-zuul/study-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-feign-consumer/test-feign-consumer.iml" filepath="$PROJECT_DIR$/test-feign-consumer/test-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-many-registers/test-many-registers.iml" filepath="$PROJECT_DIR$/test-many-registers/test-many-registers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-producter/test-producter.iml" filepath="$PROJECT_DIR$/test-producter/test-producter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-register/test-register.iml" filepath="$PROJECT_DIR$/test-register/test-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-ribbon-consumer/test-ribbon-consumer.iml" filepath="$PROJECT_DIR$/test-ribbon-consumer/test-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-parent-demo.iml" filepath="$PROJECT_DIR$/test-springcloud-parent-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-zuul/test-zuul.iml" filepath="$PROJECT_DIR$/test-zuul/test-zuul.iml" />
+    </modules>
+  </component>
+</project>

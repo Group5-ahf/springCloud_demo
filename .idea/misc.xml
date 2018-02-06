@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-register/pom.xml" />
+        <option value="$PROJECT_DIR$/test-producter/pom.xml" />
+        <option value="$PROJECT_DIR$/test-ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/test-many-registers/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-register/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-producter/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-cloud-parent/study-many-registers/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

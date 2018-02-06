@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-many-registers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../study-cloud-parent/study-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-many-registers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
