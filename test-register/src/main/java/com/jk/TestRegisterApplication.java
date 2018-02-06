@@ -9,6 +9,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class TestRegisterApplication {
 //jkjgkfhgh
 	// ghg
+	//还是大好风光十大
+
 	public static void main(String[] args) {
 		SpringApplication.run(TestRegisterApplication.class, args);
 	}
