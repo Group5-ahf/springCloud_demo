@@ -10,7 +10,7 @@ public class TestRegisterApplication {
 //jkjgkfhgh
 	// ghg
 	//还是大好风光十大
-
+ //冲突master
 	public static void main(String[] args) {
 		SpringApplication.run(TestRegisterApplication.class, args);
 	}
